@@ -1,3 +1,5 @@
+![plot](https://github.com/EmilianoJan/Espectrometro/blob/main/Piezas/Renders/Graphical%20Abstract%20800X600.png)
+
 # Espectrometro
 Construyendo un espectrómetro con una impresora 3D y una webcam. Casi toda la óptica en un solo experimento.
 
